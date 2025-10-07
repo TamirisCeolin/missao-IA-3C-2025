@@ -8,65 +8,68 @@ const perguntas = [
         enunciado: "Quando você está aprendendo algo novo, o que mais te ajuda?",
         alternativas: [
             {
-                texto: " Ver imagens, esquemas, gráficos ou mapas. ",
-                afirmacao: " Você aprende melhor quando consegue visualizar as informações em diagramas e imagens. ",
+                texto: "Ver imagens, esquemas, gráficos ou mapas.",
+                afirmacao: "Você aprende melhor quando consegue visualizar as informações em diagramas e imagens."
+
             },
             {
-                texto: " Ouvir explicações e conversar sobre o assunto. ",
-                afirmacao: " Você valoriza ouvir boas explicações e trocar ideias para consolidar o conhecimento. ",
+                texto: "Ouvir explicações e conversar sobre o assunto.",
+                afirmacao: "Você valoriza ouvir boas explicações e trocar ideias para consolidar o conhecimento."
+
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Na hora de revisar o conteúdo para uma prova, o que você prefere?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Refazer exercícios e colocar a mão na massa.",
+                afirmacao: "Você consolida o conhecimento praticando e experimentando na prática."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Revisar resumos, mapas mentais ou anotações.",
+                afirmacao: "Você organiza os conteúdos em resumos e isso torna a revisão mais eficiente."
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Quando o professor explica um conteúdo difícil, o que te ajuda mais?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Que ele faça exemplos passo a passo na lousa.",
+                afirmacao: "Você aprende melhor acompanhando processos organizados e exemplos práticos."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Que ele conte histórias, dê comparações ou faça analogias.",
+                afirmacao: "Você conecta melhor os conteúdos quando eles estão ligados a situações cotidianas."
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Se precisa estudar sozinho em casa, qual estratégia escolhe?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Assistir videoaulas ou buscar podcasts sobre o tema.",
+                afirmacao: "Você aproveita recursos digitais para aprender com mais dinamismo."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Escrever resumos e fazer listas de exercícios.",
+                afirmacao: "Você prefere organizar o conteúdo por conta própria para fixar melhor."
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Em um trabalho em grupo, qual papel você assume naturalmente?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "A pessoa que organiza e escreve as ideias de todos.",
+                afirmacao: "Você tem perfil organizado e gosta de estruturar as ideias do grupo."
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "A pessoa que explica oralmente e motiva os colegas.",
+                afirmacao: "Você gosta de comunicar as ideias e ajudar os colegas a compreenderem melhor."
             }
         ]
     },
+
 ];
